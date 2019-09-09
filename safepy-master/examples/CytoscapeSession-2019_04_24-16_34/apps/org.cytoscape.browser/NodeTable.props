@@ -1,0 +1,5 @@
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default node,0,SUID,false
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default node,1,selected,false
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default node,2,shared name,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default node,3,name,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default node,4,ORF,true

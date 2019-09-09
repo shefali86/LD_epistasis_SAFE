@@ -1,0 +1,21 @@
+"CyCSV-Version","1"
+"SUID","Data"
+"java.lang.Long","java.lang.String"
+"","mutable"
+"SAFE Data","public,mutable"
+"33937","{
+  ""analysisType"" : 0,
+  ""distanceThreshold"" : 0.5,
+  ""forceUndirectedEdges"" : true,
+  ""groupingMethod"" : ""jaccard"",
+  ""idColumn"" : ""shared name"",
+  ""nameColumn"" : ""shared name"",
+  ""weightColumn"" : null,
+  ""isDistanceThresholdAbsolute"" : false,
+  ""minimumLandscapeSize"" : 10,
+  ""quantitativeIterations"" : 1000,
+  ""restrictionMethod"" : ""radius"",
+  ""similarityThreshold"" : 0.75,
+  ""colorSeed"" : 0,
+  ""randomizeColors"" : false
+}"

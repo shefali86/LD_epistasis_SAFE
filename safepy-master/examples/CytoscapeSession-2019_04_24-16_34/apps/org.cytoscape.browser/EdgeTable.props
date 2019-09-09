@@ -1,0 +1,7 @@
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,0,SUID,false
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,1,selected,false
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,2,shared name,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,3,shared interaction,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,4,name,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,5,interaction,true
+all_ohta_models_closestgene.weights_wGO.aggregated2.txt default edge,6,Weight,true

@@ -1,0 +1,7 @@
+Long_range_ohta_models.closestgenes.weights.txt default edge,0,SUID,false
+Long_range_ohta_models.closestgenes.weights.txt default edge,1,selected,false
+Long_range_ohta_models.closestgenes.weights.txt default edge,2,shared name,true
+Long_range_ohta_models.closestgenes.weights.txt default edge,3,shared interaction,true
+Long_range_ohta_models.closestgenes.weights.txt default edge,4,name,true
+Long_range_ohta_models.closestgenes.weights.txt default edge,5,interaction,true
+Long_range_ohta_models.closestgenes.weights.txt default edge,6,Weight,true

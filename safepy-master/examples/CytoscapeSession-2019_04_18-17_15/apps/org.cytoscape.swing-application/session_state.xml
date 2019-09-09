@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sessionState>
+    <cytopanels>
+        <cytopanel id="CytoPanel1">
+            <panelState>DOCK</panelState>
+            <selectedPanel>0</selectedPanel>
+        </cytopanel>
+        <cytopanel id="CytoPanel2">
+            <panelState>DOCK</panelState>
+            <selectedPanel>0</selectedPanel>
+        </cytopanel>
+        <cytopanel id="CytoPanel3">
+            <panelState>HIDE</panelState>
+            <selectedPanel>-1</selectedPanel>
+        </cytopanel>
+    </cytopanels>
+</sessionState>
